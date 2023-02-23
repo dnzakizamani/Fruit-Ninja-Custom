@@ -1,13 +1,18 @@
 # Fruit-Ninja-Custom
 
 Create Fruit Ninja Game in Unity.
+
 You can star this repository to keep track of the project if it's helpful for you, thank you for your support.
 
 
 <!-- USAGE EXAMPLES -->
 ## Usage
 
-![image](https://user-images.githubusercontent.com/95016412/220839437-80b02e19-02e0-41b8-9791-dfa6f44f4ae7.png)
+![image](https://user-images.githubusercontent.com/95016412/220839645-dcccaf0b-92f3-4e7b-8c8a-94305925d2d9.png)
+![image](https://user-images.githubusercontent.com/95016412/220839676-7ec6bdca-0802-49ef-823e-5e8443a73319.png)
+![image](https://user-images.githubusercontent.com/95016412/220839691-822d0523-07fe-41d1-b619-a7cd0eba7b2a.png)
+![image](https://user-images.githubusercontent.com/95016412/220839710-1bf01b37-b3c7-4e05-9b92-fa098ec11d43.png)
+
 
 
 
